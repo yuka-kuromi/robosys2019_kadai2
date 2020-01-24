@@ -9,7 +9,7 @@ LEDの点灯，消灯を5回繰り返すプログラムを実行しました．
 
 ## 使用したもの
 * Raspberry Pi 3 Model B+ 
-* Ubuntu 18.04
+** Ubuntu 18.04
 * LED
 * 抵抗：300[Ω]  
 
