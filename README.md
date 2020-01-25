@@ -11,7 +11,7 @@
 * Raspberry Pi 3 Model B+ 
 * Ubuntu 18.04
 * LED
-* 抵抗：300[Ω]
+* 300Ω程度の抵抗
 
 ## 動画
 https://www.youtube.com/watch?v=2Q5XFW57PFg
